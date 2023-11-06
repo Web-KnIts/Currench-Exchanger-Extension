@@ -1,0 +1,17 @@
+{
+    "name":"Currency Converter",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "author":"Laxshay & Tushar",
+    "description": "A basic Currency Exchanger",
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "icon":{
+        "16":"icons8-currency-16.png",
+        "32":"icons8-currency-32.png",
+        "48":"icons8-currency-48.png",
+        "128":"icons8-currency-96.png"
+    },
+    "permission": ["activeTab"]
+}
